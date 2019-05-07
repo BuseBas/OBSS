@@ -88,7 +88,7 @@ function bytesToSize(bytes) {
 <body>
 <div id="upload-wrapper">
 <div align="center">
-<h3>Ajax Image Uploader 2</h3>
+<h3>Ajax Image Uploader 3</h3>
 <form action="processupload.php" method="post" enctype="multipart/form-data" id="MyUploadForm">
 <input name="image_file" id="imageInput" type="file" />
 <input type="submit"  id="submit-btn" value="Upload" />
